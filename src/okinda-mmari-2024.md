@@ -10,6 +10,9 @@ https://github.com/ItsOkinda
 -Java
 -Javascript
 -VbScript
+-MySql
+-C
+
 
 #My Tech Stack
 
@@ -18,7 +21,12 @@ https://github.com/ItsOkinda
 -Flask
 -Git and Github
 -React/NextJs
- 
+-MariaDb
+-Postgresql
+-MongoDb
+-MySql
+-
+
 ##Portfolio
  
 LinkedIn :https://www.linkedin.com/in/okinda-mmari-509086237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
